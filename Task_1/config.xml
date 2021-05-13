@@ -1,0 +1,12 @@
+<config>
+<file
+    source_path='from'
+    file_name="server2.log"
+    destionation_path='to'
+/>
+<file
+    source_path='C:/Users/Vladislav/Desktop/Work/Task_1/from'
+    file_name="hello.txt"
+    destionation_path='C:/Users/Vladislav/Desktop/Work/Task_1/to'
+/>
+</config>

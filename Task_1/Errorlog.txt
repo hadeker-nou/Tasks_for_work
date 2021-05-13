@@ -1,0 +1,1 @@
+File server2.log wasn't copied

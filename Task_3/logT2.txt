@@ -1,0 +1,2 @@
+Test number 2  with name "Random file" started
+Test number 2  with name "Random file" was interrupted
